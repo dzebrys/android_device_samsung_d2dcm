@@ -1,22 +1,32 @@
 [
-  {
-    "repository": "android_device_samsung_qcom-common",
-    "target_path": "device/samsung/qcom-common"
-  },
-  {
-    "repository": "android_device_samsung_msm8960-common",
-    "target_path": "device/samsung/msm8960-common"
-  },
-  {
-    "repository": "android_device_samsung_d2-common",
-    "target_path": "device/samsung/d2-common"
-  },
-  {
-    "repository": "android_kernel_samsung_d2",
-    "target_path": "kernel/samsung/d2"
-  },
-  {
-    "repository": "android_hardware_samsung",
-    "target_path": "hardware/samsung"
-  }
+ {
+   "remote": "cr",
+   "repository": "CarbonDev/android_device_samsung_d2-common",
+   "target_path": "device/samsung/d2-common",
+   "revision": "kk"
+ },
+ {
+   "remote": "cm",
+   "repository": "CyanogenMod/android_device_samsung_msm8960-common",
+   "target_path": "device/samsung/msm8960-common",
+   "revision": "cm-11.0"
+ },
+ {
+   "remote": "cm",
+   "repository": "CyanogenMod/android_device_samsung_qcom-common",
+   "target_path": "device/samsung/qcom-common",
+   "revision": "cm-11.0"
+ },
+ {
+   "remote": "cr",
+   "repository": "CarbonDev/android_kernel_samsung_d2dcm",
+   "target_path": "kernel/samsung/d2",
+   "revision": "cm-11.0"
+ },
+ {
+  "remote": "cr",
+  "repository": "CarbonDev/proprietary_vendor_samsung",
+  "target_path": "vendor/samsung",
+  "revision": "cm-11.0"
+ }
 ]

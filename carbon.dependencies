@@ -20,7 +20,7 @@
  {
    "remote": "cr",
    "repository": "CarbonDev/android_kernel_samsung_d2dcm",
-   "target_path": "kernel/samsung/d2",
+   "target_path": "kernel/samsung/d2dcm",
    "revision": "cm-11.0"
  },
  {

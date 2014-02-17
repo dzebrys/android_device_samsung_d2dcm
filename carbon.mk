@@ -46,4 +46,3 @@ PRODUCT_BRAND := samsung
 PRODUCT_NAME := carbon_d2dcm
 PRODUCT_MODEL := SC-06D
 PRODUCT_MANUFACTURER := Samsung
-PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=carbon.d2dcm.$(shell date +%m%d%y).$(shell date +%H%M%S)

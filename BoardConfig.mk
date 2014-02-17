@@ -21,7 +21,7 @@
 #
 
 # inherit from common D2
--include device/samsung/d2-common/BoardConfigCommon.mk
+-include device/samsung/d2lte/BoardConfigCommon.mk
 
 # inherit from the proprietary version
 -include vendor/samsung/d2dcm/BoardConfigVendor.mk
@@ -30,7 +30,7 @@
 TARGET_OTA_ASSERT_DEVICE := d2dcm
 
 # Kernel
-TARGET_KERNEL_SOURCE        := kernel/samsung/d2dcm
+TARGET_KERNEL_SOURCE        := kernel/samsung/d2
 TARGET_KERNEL_CONFIG        := cyanogen_d2dcm_defconfig
 TARGET_KERNEL_VARIANT_CONFIG := 
 

@@ -24,15 +24,15 @@
    "revision": "cm-11.0"
  },
  {
-   "remote": "cm",
-   "repository": "CyanogenMod/android_kernel_samsung_d2",
-   "target_path": "kernel/samsung/d2",
+   "remote": "cr",
+   "repository": "CarbonDev/android_kernel_samsung_d2dcm",
+   "target_path": "kernel/samsung/d2dcm",
    "revision": "cm-11.0"
  },
  {
-  "remote": "cm",
-  "repository": "TheMuppets/proprietary_vendor_samsung",
+  "remote": "cr",
+  "repository": "CarbonDev/proprietary_vendor_samsung",
   "target_path": "vendor/samsung",
-  "revision": "cm-11.0"
+  "revision": "kk"
  }
 ]

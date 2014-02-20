@@ -21,10 +21,6 @@
 # lines, full and maguro, hence its name.
 #
 
-# d2dcm ramdisk
-PRODUCT_COPY_FILES += \
-    device/samsung/d2dcm/rootdir/init.carrier.rc:root/init.carrier.rc
-
 PRODUCT_COPY_FILES += \
 	device/samsung/d2dcm/audio/snd_soc_msm_2x:system/etc/snd_soc_msm/snd_soc_msm_2x
 

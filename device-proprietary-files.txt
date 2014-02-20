@@ -1,6 +1,4 @@
 # Add device specific blobs here
 
-etc/wifi/nvram_mfg.txt_murata_b2
-etc/wifi/nvram_net.txt_murata_b2
 lib/libril-qc-qmi-1.so
 lib/libril.so

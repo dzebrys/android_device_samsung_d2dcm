@@ -34,5 +34,11 @@
   "repository": "SlimRoms/proprietary_vendor_samsung",
   "target_path": "vendor/samsung",
   "revision": "kk4.4"
+ },
+ {
+  "remote": "gh",
+  "repository": "xInterlopeRx/proprietary_vendor_samsung/d2dcm",
+  "target_path": "vendor/samsung/d2dcm",
+  "revision": "cm-11.0"
  }
 ]

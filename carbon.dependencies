@@ -30,9 +30,9 @@
    "revision": "cm-11.0"
  },
  {
-  "remote": "cr",
-  "repository": "CarbonDev/proprietary_vendor_samsung",
+  "remote": "gh",
+  "repository": "SlimRoms/proprietary_vendor_samsung",
   "target_path": "vendor/samsung",
-  "revision": "kk"
+  "revision": "kk4.4"
  }
 ]

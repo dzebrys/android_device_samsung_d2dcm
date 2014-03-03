@@ -37,7 +37,7 @@
  },
  {
   "remote": "gh",
-  "repository": "xInterlopeRx/proprietary_vendor_samsung/d2dcm",
+  "repository": "xInterlopeRx/proprietary_vendor_samsung_d2dcm",
   "target_path": "vendor/samsung/d2dcm",
   "revision": "cm-11.0"
  }

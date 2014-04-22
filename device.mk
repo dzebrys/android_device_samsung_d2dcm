@@ -21,4 +21,4 @@ $(call inherit-product-if-exists, vendor/samsung/d2dcm/d2dcm-vendor.mk)
 DEVICE_PACKAGE_OVERLAYS += device/samsung/d2dcm/overlay
 
 # Inherit from d2-common
-$(call inherit-product, device/samsung/d2-common/d2-common.mk)
+$(call inherit-product, device/samsung/d2lte/d2-common.mk)

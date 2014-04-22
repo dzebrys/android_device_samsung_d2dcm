@@ -32,7 +32,7 @@
  {
    "remote": "gh",
    "repository": "android_hardware_samsung",
-   "target_path": "hardware/samsung"
+   "target_path": "hardware/samsung",
    "revision": "cm-11.0"
  },
  {
